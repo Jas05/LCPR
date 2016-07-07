@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>1395edcc-8eb8-4e09-a6cc-3c0d729ae6c2</ProjectGuid>
+    <ProjectGuid>5e8ad8ef-d06c-4264-a923-00a880c1a393</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>LCPR.DAL</RootNamespace>
